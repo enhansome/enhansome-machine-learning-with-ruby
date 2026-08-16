@@ -165,7 +165,7 @@
             "last_commit": "2023-12-19T18:37:18Z",
             "owner": "shogun-toolbox",
             "repo": "shogun",
-            "stars": 3080
+            "stars": 3079
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-08-14T11:33:15Z",
             "owner": "patterns-ai-core",
             "repo": "langchainrb",
-            "stars": 1990
+            "stars": 1989
           }
         },
         {
@@ -1073,7 +1073,7 @@
             "last_commit": "2026-08-15T10:35:43Z",
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28656
+            "stars": 28659
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-14T14:59:47Z",
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18687
+            "stars": 18688
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17559
+            "stars": 17551
           }
         },
         {
@@ -1115,7 +1115,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14138
+            "stars": 14139
           }
         },
         {
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:33:44.690Z",
+    "last_updated": "2026-08-16T22:32:25.855Z",
     "original_repository": "arbox/machine-learning-with-ruby",
     "original_repository_sha": "c8c2503b579653487516920a8b955591fbc3336f",
     "enhanced_repository": "enhansome/enhansome-machine-learning-with-ruby",
