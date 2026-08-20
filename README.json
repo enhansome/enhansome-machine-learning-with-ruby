@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 2050163,
                 "language": "Ruby",
-                "last_commit": "2026-08-19T20:01:32Z",
+                "last_commit": "2026-08-20T19:37:16Z",
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3656
@@ -158,7 +158,7 @@
                 "last_commit": "2026-05-01T14:37:06Z",
                 "owner": "alexrudall",
                 "repo": "ruby-openai",
-                "stars": 3224
+                "stars": 3225
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-19T16:20:34Z",
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 1990
+                "stars": 1991
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-05T01:11:12Z",
                 "owner": "yoshoku",
                 "repo": "rumale",
-                "stars": 915
+                "stars": 916
               }
             },
             {
@@ -1141,10 +1141,10 @@
             "archived": false,
             "id": 16587283,
             "language": "C++",
-            "last_commit": "2026-08-19T04:06:51Z",
+            "last_commit": "2026-08-20T07:08:47Z",
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28673
+            "stars": 28678
           }
         },
         {
@@ -1156,7 +1156,7 @@
             "archived": false,
             "id": 64991887,
             "language": "C++",
-            "last_commit": "2026-08-19T21:50:40Z",
+            "last_commit": "2026-08-20T03:01:51Z",
             "owner": "lightgbm-org",
             "repo": "LightGBM",
             "stars": 18701
@@ -1174,7 +1174,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17551
+            "stars": 17552
           }
         },
         {
@@ -1189,7 +1189,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14141
+            "stars": 14143
           }
         },
         {
@@ -1204,7 +1204,7 @@
             "last_commit": "2024-07-06T21:02:05Z",
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3119
+            "stars": 3118
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-06-30T01:27:30Z",
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 927
+            "stars": 923
           }
         },
         {
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:36:22.926Z",
+    "last_updated": "2026-08-20T22:39:34.648Z",
     "original_repository": "arbox/machine-learning-with-ruby",
     "original_repository_id": 88849240,
     "original_repository_sha": "c8c2503b579653487516920a8b955591fbc3336f",
