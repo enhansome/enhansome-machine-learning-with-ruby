@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 2050163,
                 "language": "Ruby",
-                "last_commit": "2026-08-20T19:37:16Z",
+                "last_commit": "2026-08-21T19:45:54Z",
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3656
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 629651008,
                 "language": "Ruby",
-                "last_commit": "2026-08-19T16:20:34Z",
+                "last_commit": "2026-08-21T21:22:07Z",
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
                 "stars": 1991
@@ -532,7 +532,7 @@
                 "last_commit": "2020-12-26T21:59:58Z",
                 "owner": "jedld",
                 "repo": "tensor_stream",
-                "stars": 506
+                "stars": 505
               }
             },
             {
@@ -1141,10 +1141,10 @@
             "archived": false,
             "id": 16587283,
             "language": "C++",
-            "last_commit": "2026-08-20T07:08:47Z",
+            "last_commit": "2026-08-21T15:04:38Z",
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28678
+            "stars": 28686
           }
         },
         {
@@ -1159,7 +1159,7 @@
             "last_commit": "2026-08-20T03:01:51Z",
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18701
+            "stars": 18707
           }
         },
         {
@@ -1174,7 +1174,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17552
+            "stars": 17553
           }
         },
         {
@@ -1189,7 +1189,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14143
+            "stars": 14141
           }
         },
         {
@@ -1219,7 +1219,7 @@
             "last_commit": "2019-04-02T12:35:13Z",
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2226
+            "stars": 2225
           }
         },
         {
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:39:34.648Z",
+    "last_updated": "2026-08-21T22:36:22.782Z",
     "original_repository": "arbox/machine-learning-with-ruby",
     "original_repository_id": 88849240,
     "original_repository_sha": "c8c2503b579653487516920a8b955591fbc3336f",
