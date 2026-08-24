@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 2050163,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T19:45:54Z",
+                "last_commit": "2026-08-24T19:42:27Z",
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3656
@@ -1234,7 +1234,7 @@
             "archived": false,
             "id": 16587283,
             "language": "C++",
-            "last_commit": "2026-08-24T08:45:22Z",
+            "last_commit": "2026-08-24T16:11:06Z",
             "owner": "dmlc",
             "repo": "xgboost",
             "stars": 28690
@@ -1252,7 +1252,7 @@
             "last_commit": "2026-08-24T00:19:39Z",
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18709
+            "stars": 18710
           }
         },
         {
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:11.821Z",
+    "last_updated": "2026-08-24T22:38:45.355Z",
     "original_repository": "arbox/machine-learning-with-ruby",
     "original_repository_id": 88849240,
     "original_repository_sha": "c8c2503b579653487516920a8b955591fbc3336f",
