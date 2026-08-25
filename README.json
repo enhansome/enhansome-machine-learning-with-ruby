@@ -158,7 +158,7 @@
                 "last_commit": "2026-05-01T14:37:06Z",
                 "owner": "alexrudall",
                 "repo": "ruby-openai",
-                "stars": 3223
+                "stars": 3222
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-21T21:22:07Z",
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 1992
+                "stars": 1991
               }
             },
             {
@@ -1234,7 +1234,7 @@
             "archived": false,
             "id": 16587283,
             "language": "C++",
-            "last_commit": "2026-08-24T16:11:06Z",
+            "last_commit": "2026-08-25T02:16:13Z",
             "owner": "dmlc",
             "repo": "xgboost",
             "stars": 28690
@@ -1249,7 +1249,7 @@
             "archived": false,
             "id": 64991887,
             "language": "C++",
-            "last_commit": "2026-08-24T00:19:39Z",
+            "last_commit": "2026-08-25T03:42:03Z",
             "owner": "lightgbm-org",
             "repo": "LightGBM",
             "stars": 18710
@@ -1267,7 +1267,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17552
+            "stars": 17551
           }
         },
         {
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:38:45.355Z",
+    "last_updated": "2026-08-25T06:01:54.286Z",
     "original_repository": "arbox/machine-learning-with-ruby",
     "original_repository_id": 88849240,
     "original_repository_sha": "c8c2503b579653487516920a8b955591fbc3336f",
