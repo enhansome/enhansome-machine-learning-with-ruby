@@ -218,7 +218,7 @@
                 "last_commit": "2025-07-18T14:56:36Z",
                 "owner": "SergioFierens",
                 "repo": "ai4r",
-                "stars": 721
+                "stars": 722
               }
             },
             {
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-08-26T10:53:24Z",
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28696
+            "stars": 28698
           }
         },
         {
@@ -1380,9 +1380,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:05:55.079Z",
-    "original_repository": "arbox/machine-learning-with-ruby",
-    "original_repository_id": 88849240,
+    "last_updated": "2026-08-27T11:50:49.488Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 88849240,
+      "language": "Ruby",
+      "last_commit": "2024-12-26T17:58:24Z",
+      "owner": "arbox",
+      "repo": "machine-learning-with-ruby",
+      "stars": 2222
+    },
     "original_repository_sha": "c8c2503b579653487516920a8b955591fbc3336f",
     "enhanced_repository": "enhansome/enhansome-machine-learning-with-ruby",
     "enhanced_repository_description": null,
