@@ -16,7 +16,8 @@
             "owner": "daugaard",
             "repo": "q-learning-simple-game",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "daugaard",
             "repo": "q-learning-simple-game",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "giuse",
             "repo": "machine_learning_workbench",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "daugaard",
             "repo": "example-neural-network",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "daugaard",
             "repo": "example-svm",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "daugaard",
             "repo": "example-linear-regression",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "daugaard",
             "repo": "scikit-learn-from-ruby",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "daugaard",
             "repo": "example-kmeans-clustering",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         }
       ],
       "title": ":sparkles: Tutorials"
@@ -140,11 +148,12 @@
                 "archived": false,
                 "id": 2050163,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T20:32:33Z",
+                "last_commit": "2026-08-27T20:18:26Z",
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3655
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "alexrudall",
                 "repo": "ruby-openai",
                 "stars": 3222
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "shogun-toolbox",
                 "repo": "shogun",
                 "stars": 3079
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -188,8 +199,9 @@
                 "last_commit": "2026-08-26T15:18:50Z",
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 1991
-              }
+                "stars": 1992
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "yoshoku",
                 "repo": "rumale",
                 "stars": 916
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "SergioFierens",
                 "repo": "ai4r",
                 "stars": 722
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "ankane",
                 "repo": "eps",
                 "stars": 692
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "jekyll",
                 "repo": "classifier-reborn",
                 "stars": 558
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "Azure",
                 "repo": "azure-sdk-for-ruby",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "giuse",
                 "repo": "DNE",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "asafschers",
                 "repo": "scoruby",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "paulgoetze",
                 "repo": "weka-jruby",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "instruct-rb",
                 "repo": "instruct",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "giuse",
                 "repo": "machine_learning_workbench",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "himkt",
                 "repo": "rblearn",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "giuse",
                 "repo": "data_modeler",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -391,7 +415,8 @@
                 "owner": "tangledpath",
                 "repo": "ruby-fann",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "gbuesing",
                 "repo": "neural-net-ruby",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "josephwilk",
                 "repo": "tlearn-rb",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "jedld",
                 "repo": "brains-jruby",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "irfansharif",
                 "repo": "cerebrum",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -466,7 +495,8 @@
                 "owner": "giuse",
                 "repo": "machine_learning_workbench",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -481,7 +511,8 @@
                 "owner": "mikecmpbll",
                 "repo": "rann",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -503,7 +534,8 @@
                 "owner": "ankane",
                 "repo": "torch.rb",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "somaticio",
                 "repo": "tensorflow.rb",
                 "stars": 832
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "jedld",
                 "repo": "tensor_stream",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "red-data-tools",
                 "repo": "red-chainer",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -563,7 +598,8 @@
                 "owner": "mrkn",
                 "repo": "mxnet.rb",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -578,7 +614,8 @@
                 "owner": "unagiootoro",
                 "repo": "ruby-dnn",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -600,7 +637,8 @@
                 "owner": "febeling",
                 "repo": "rb-libsvm",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -622,7 +660,8 @@
                 "owner": "giuse",
                 "repo": "machine_learning_workbench",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -637,7 +676,8 @@
                 "owner": "giuse",
                 "repo": "simple_ga",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -659,7 +699,8 @@
                 "owner": "oasic",
                 "repo": "nbayes",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -674,7 +715,8 @@
                 "owner": "reddavis",
                 "repo": "Naive-Bayes",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -689,7 +731,8 @@
                 "owner": "djcp",
                 "repo": "linnaeus",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -711,7 +754,8 @@
                 "owner": "igrigorik",
                 "repo": "decisiontree",
                 "stars": 1490
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -733,7 +777,8 @@
                 "owner": "reddavis",
                 "repo": "K-Means",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -748,7 +793,8 @@
                 "owner": "gbuesing",
                 "repo": "kmeans-clusterer",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -763,7 +809,8 @@
                 "owner": "reddavis",
                 "repo": "knn",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -785,7 +832,8 @@
                 "owner": "tomz",
                 "repo": "liblinear-ruby-swig",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -800,7 +848,8 @@
                 "owner": "kei500",
                 "repo": "liblinear-ruby",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -822,7 +871,8 @@
                 "owner": "ealdent",
                 "repo": "lda-ruby",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -837,7 +887,8 @@
                 "owner": "mustafaturan",
                 "repo": "omnicat-bayes",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -852,7 +903,8 @@
                 "owner": "mustafaturan",
                 "repo": "omnicat",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -867,7 +919,8 @@
                 "owner": "mccraigmccraig",
                 "repo": "maxent_string_classifier",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -882,7 +935,8 @@
                 "owner": "maspwr",
                 "repo": "rtimbl",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -904,7 +958,8 @@
                 "owner": "ankane",
                 "repo": "xgboost-ruby",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -919,7 +974,8 @@
                 "owner": "ankane",
                 "repo": "lightgbm-ruby",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -934,7 +990,8 @@
                 "owner": "PairOnAir",
                 "repo": "xgboost-ruby",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -956,7 +1013,8 @@
                 "owner": "flann-lib",
                 "repo": "flann",
                 "stars": 2373
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1029,8 @@
                 "owner": "ScotterC",
                 "repo": "pinecone",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1045,8 @@
                 "owner": "patterns-ai-core",
                 "repo": "qdrant-ruby",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -1001,7 +1061,8 @@
                 "owner": "patterns-ai-core",
                 "repo": "weaviate-ruby",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1077,8 @@
                 "owner": "ankane",
                 "repo": "ngt-ruby",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1093,8 @@
                 "owner": "yoshoku",
                 "repo": "annoy-rb",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1109,8 @@
                 "owner": "patterns-ai-core",
                 "repo": "milvus",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             },
             {
               "node_type": "item",
@@ -1061,7 +1125,8 @@
                 "owner": "yoshoku",
                 "repo": "hnswlib.rb",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ],
           "description": null,
@@ -1087,7 +1152,8 @@
             "owner": "westonplatter",
             "repo": "phashion",
             "stars": 711
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         }
       ],
       "title": "Applications of machine learning"
@@ -1113,7 +1179,8 @@
                 "owner": "hexgnu",
                 "repo": "sentiment_analyzer",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:04:41.089Z"
             }
           ]
         }
@@ -1136,7 +1203,8 @@
             "owner": "giuse",
             "repo": "simple_ga",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1151,7 +1219,8 @@
             "owner": "jdrzj",
             "repo": "handwritten-digits-recognition",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1166,7 +1235,8 @@
             "owner": "hexgnu",
             "repo": "wine_clustering",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         }
       ],
       "title": "Projects and Code Examples"
@@ -1187,7 +1257,8 @@
             "owner": "mcollina",
             "repo": "heroku-buildpack-imagemagick",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1202,7 +1273,8 @@
             "owner": "tomwolfe",
             "repo": "heroku-buildpack-gsl-ruby",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1217,7 +1289,8 @@
             "owner": "nowaterlili",
             "repo": "heroku-buildpack-ruby-opencv",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         }
       ],
       "title": "Heroku buildpacks"
@@ -1234,11 +1307,12 @@
             "archived": false,
             "id": 16587283,
             "language": "C++",
-            "last_commit": "2026-08-26T10:53:24Z",
+            "last_commit": "2026-08-27T12:48:25Z",
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28698
-          }
+            "stars": 28701
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1249,11 +1323,12 @@
             "archived": false,
             "id": 64991887,
             "language": "C++",
-            "last_commit": "2026-08-26T03:44:51Z",
+            "last_commit": "2026-08-28T03:23:45Z",
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18715
-          }
+            "stars": 18720
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1268,7 +1343,8 @@
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
             "stars": 17550
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1282,8 +1358,9 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14144
-          }
+            "stars": 14147
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1298,7 +1375,8 @@
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3119
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1313,7 +1391,8 @@
             "owner": "edobashira",
             "repo": "speech-language-processing",
             "stars": 2225
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1328,7 +1407,8 @@
             "owner": "thbar",
             "repo": "kiba",
             "stars": 1775
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1343,7 +1423,8 @@
             "owner": "diasks2",
             "repo": "ruby-nlp",
             "stars": 1285
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1358,7 +1439,8 @@
             "owner": "SciRuby",
             "repo": "iruby",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         },
         {
           "node_type": "item",
@@ -1373,14 +1455,15 @@
             "owner": "SciRuby",
             "repo": "rb-gsl",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T06:04:41.089Z"
         }
       ],
       "title": "Related Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:49.488Z",
+    "last_updated": "2026-08-28T06:04:41.089Z",
     "original_repository_info": {
       "archived": false,
       "id": 88849240,
