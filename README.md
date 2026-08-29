@@ -1,6 +1,6 @@
 <img title="Awesome Machine Learning with Ruby" alt="Awesome Machine Learning with Ruby" src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 500,886 | 🐛 105 | 📅 2026-08-21 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 720 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -89,7 +89,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
-* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,655 | 🐛 25 | 🌐 Ruby | 📅 2026-08-28 -
+* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,656 | 🐛 25 | 🌐 Ruby | 📅 2026-08-28 -
   Machine Learning API of the Amazon Web Services.
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) ⭐ 3,222 | 🐛 54 | 🌐 Ruby | 📅 2026-05-01 - OpenAI API wrapper
 * [shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,080 | 🐛 423 | 🌐 C++ | 📅 2023-12-19 - Polyfunctional and mature
@@ -148,7 +148,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Deep learning
 
-* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 839 | 🐛 5 | 🌐 Ruby | 📅 2026-07-08 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 102,654 | 🐛 17,422 | 🌐 Python | 📅 2026-08-29
+* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 839 | 🐛 5 | 🌐 Ruby | 📅 2026-07-08 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 102,654 | 🐛 17,419 | 🌐 Python | 📅 2026-08-29
   using [rice](https://github.com/jasonroelofs/rice) ⭐ 417 | 🐛 2 | 🌐 C++ | 📅 2026-05-05.
 * [tensorflow](https://github.com/somaticio/tensorflow.rb) ⭐ 832 | 🐛 15 | 🌐 Ruby | 📅 2022-01-10 - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 * [tensor\_stream](https://github.com/jedld/tensor_stream) ⭐ 505 | 🐛 2 | 🌐 Ruby | 📅 2020-12-26 -
@@ -379,7 +379,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 * <a name="xgboost"></a>
   [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,706 | 🐛 424 | 🌐 C++ | 📅 2026-08-27
 * <a name="lightgbm"></a>
-  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,724 | 🐛 514 | 🌐 C++ | 📅 2026-08-28
+  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,724 | 🐛 515 | 🌐 C++ | 📅 2026-08-29
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,549 | 🐛 34 | 📅 2026-02-08 -
   Machine Learning with TensorFlow libraries.
 * [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) ⭐ 14,148 | 🐛 8 | 📅 2026-08-13 -

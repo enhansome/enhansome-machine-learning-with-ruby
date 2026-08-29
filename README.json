@@ -249,7 +249,7 @@
                 "open_issues": 25,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
-                "stars": 3655,
+                "stars": 3656,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -2047,8 +2047,8 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-28T03:23:45Z",
-            "open_issues": 514,
+            "last_commit": "2026-08-29T04:19:05Z",
+            "open_issues": 515,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
             "stars": 18724,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:40:49.337Z",
+    "last_updated": "2026-08-29T04:27:27.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
