@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of reinforcement learning using q-learning to teach an AI to play a game in Rub",
+            "homepage": "https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/",
             "id": 100186817,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-09-03T21:18:32Z",
+            "open_issues": 1,
             "owner": "daugaard",
             "repo": "q-learning-simple-game",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "ai",
+              "ml",
+              "q-learning",
+              "reinforcement-learning",
+              "ruby",
+              "rubyml"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of reinforcement learning using q-learning to teach an AI to play a game in Rub",
+            "homepage": "https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/",
             "id": 100186817,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-09-03T21:18:32Z",
+            "open_issues": 1,
             "owner": "daugaard",
             "repo": "q-learning-simple-game",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "ai",
+              "ml",
+              "q-learning",
+              "reinforcement-learning",
+              "ruby",
+              "rubyml"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -42,12 +66,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workbench for practical machine learning in Ruby.",
+            "homepage": null,
             "id": 123904389,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-11-02T03:50:26Z",
+            "open_issues": 1,
             "owner": "giuse",
             "repo": "machine_learning_workbench",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "black-box-optimization",
+              "evolution-strategies",
+              "evolutionary-algorithm",
+              "evolutionary-algorithms",
+              "evolutionary-computation",
+              "evolutionary-strategy",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machine-learning-workbench",
+              "modeling",
+              "natural-evolution-strategies",
+              "neural-network",
+              "neural-networks",
+              "neuroevolution",
+              "optimization",
+              "optimization-algorithms",
+              "reinforcement-learning",
+              "rubyml"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -58,12 +106,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of creating and using a Neural Network in Ruby",
+            "homepage": null,
             "id": 96120268,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-07-03T16:52:00Z",
+            "open_issues": 0,
             "owner": "daugaard",
             "repo": "example-neural-network",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "rubyml"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -74,12 +129,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of implementing Support Vector Machine (SVM) with RBF (Gaussian) kernel in Ruby using rb-libsvm. .",
+            "homepage": null,
             "id": 97274539,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-07-15T16:24:33Z",
+            "open_issues": 0,
             "owner": "daugaard",
             "repo": "example-svm",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ruby",
+              "rubyml",
+              "svm",
+              "svm-classifier"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -90,12 +155,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of implementing linear regression in Ruby. ",
+            "homepage": null,
             "id": 94028228,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-06-14T01:33:06Z",
+            "open_issues": 0,
             "owner": "daugaard",
             "repo": "example-linear-regression",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "rubyml"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -106,12 +178,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 103833389,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-09-17T14:07:13Z",
+            "open_issues": 0,
             "owner": "daugaard",
             "repo": "scikit-learn-from-ruby",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "handwritten-digit-recognition",
+              "python",
+              "ruby",
+              "rubyml",
+              "scikit-learn",
+              "svm-classifier"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -122,12 +206,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 98751859,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-07-29T18:32:51Z",
+            "open_issues": 0,
             "owner": "daugaard",
             "repo": "example-kmeans-clustering",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "kmeans-clustering",
+              "ml",
+              "rubyml",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         }
@@ -146,12 +240,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official AWS SDK for Ruby",
+                "homepage": "https://aws.amazon.com/sdk-for-ruby/",
                 "id": 2050163,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T20:18:26Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:40:35Z",
+                "open_issues": 25,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
-                "stars": 3655
+                "stars": 3655,
+                "topics": [
+                  "aws",
+                  "aws-sdk",
+                  "cloud",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -162,12 +266,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!",
+                "homepage": "https://insertrobot.com",
                 "id": 284824224,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-05-01T14:37:06Z",
+                "open_issues": 54,
                 "owner": "alexrudall",
                 "repo": "ruby-openai",
-                "stars": 3222
+                "stars": 3222,
+                "topics": [
+                  "ai",
+                  "api-client",
+                  "chatgpt",
+                  "dall-e",
+                  "gpt-4",
+                  "gpt-4o",
+                  "o1",
+                  "openai",
+                  "rails",
+                  "ruby",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -178,12 +299,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shōgun",
+                "homepage": "http://shogun-toolbox.org",
                 "id": 1555094,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-12-19T18:37:18Z",
+                "open_issues": 423,
                 "owner": "shogun-toolbox",
                 "repo": "shogun",
-                "stars": 3079
+                "stars": 3080,
+                "topics": [
+                  "artificial-intelligence",
+                  "c-plus-plus",
+                  "cmake",
+                  "data-science",
+                  "machine-learning",
+                  "swig"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -194,12 +327,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build LLM-powered applications in Ruby",
+                "homepage": "https://rubydoc.info/gems/langchainrb",
                 "id": 629651008,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:18:50Z",
+                "open_issues": 75,
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 1992
+                "stars": 1992,
+                "topics": [
+                  "agents",
+                  "ai-agents",
+                  "artificial-intelligence",
+                  "machine-learning",
+                  "ml",
+                  "rubyml",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -210,12 +356,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rumale is a machine learning library in Ruby",
+                "homepage": "https://rubygems.org/gems/rumale",
                 "id": 105371532,
                 "language": "Ruby",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-05T01:11:12Z",
+                "open_issues": 0,
                 "owner": "yoshoku",
                 "repo": "rumale",
-                "stars": 916
+                "stars": 916,
+                "topics": [
+                  "artificial-intelligence",
+                  "data-analysis",
+                  "data-science",
+                  "machine-learning",
+                  "ml",
+                  "ruby",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -226,12 +385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artificial Intelligence for Ruby - A Ruby playground for AI researchers",
+                "homepage": "http://ai4r.rubyforge.org",
                 "id": 159061,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-18T14:56:36Z",
+                "open_issues": 0,
                 "owner": "SergioFierens",
                 "repo": "ai4r",
-                "stars": 722
+                "stars": 722,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -242,12 +406,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine learning for Ruby",
+                "homepage": null,
                 "id": 139631171,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-06-29T08:19:39Z",
+                "open_issues": 0,
                 "owner": "ankane",
                 "repo": "eps",
-                "stars": 692
+                "stars": 692,
+                "topics": [
+                  "automl",
+                  "machine-learning",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -258,12 +431,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A general classifier module to allow Bayesian and other types of classifications. A fork of cardmagic/classifier.",
+                "homepage": "https://jekyll.github.io/classifier-reborn/",
                 "id": 22818441,
                 "language": "Ruby",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-05-27T18:32:55Z",
+                "open_issues": 28,
                 "owner": "jekyll",
                 "repo": "classifier-reborn",
-                "stars": 558
+                "stars": 558,
+                "topics": [
+                  "bayesian-classifier",
+                  "ruby",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -274,12 +456,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Ruby SDK for Azure Resource Manager: build and manage your Azure cloud infrastructure (Compute, Virtual Networks, Storage, etc...) using Ruby.",
+                "homepage": null,
                 "id": 4127095,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-01-10T18:02:52Z",
+                "open_issues": 0,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-ruby",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "azure-resource-manager",
+                  "azure-resources",
+                  "azure-sdk",
+                  "azure-sdk-for-ruby",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -290,12 +483,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of neuroevolution experiments with/towards deep networks",
+                "homepage": null,
                 "id": 123926500,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-12-31T12:47:23Z",
+                "open_issues": 3,
                 "owner": "giuse",
                 "repo": "DNE",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -306,12 +506,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby Scoring API for PMML",
+                "homepage": null,
                 "id": 73565715,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-10-19T04:55:03Z",
+                "open_issues": 4,
                 "owner": "asafschers",
                 "repo": "scoruby",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "classification",
+                  "decision-tree",
+                  "gbm",
+                  "gradient-boosted-models",
+                  "gradient-boosting-classifier",
+                  "machine-learning",
+                  "naive-bayes",
+                  "pmml",
+                  "random-forest",
+                  "ruby",
+                  "ruby-gem",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -322,12 +540,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine Learning & Data Mining with JRuby",
+                "homepage": null,
                 "id": 47281785,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-06-24T05:34:50Z",
+                "open_issues": 0,
                 "owner": "paulgoetze",
                 "repo": "weka-jruby",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "classification",
+                  "clustering",
+                  "jruby",
+                  "machine-learning",
+                  "ruby",
+                  "rubyml",
+                  "weka"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -338,12 +569,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instruct LLMs to do what you want in Ruby",
+                "homepage": "https://instruct-rb.com",
                 "id": 884687895,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-07T04:04:28Z",
+                "open_issues": 1,
                 "owner": "instruct-rb",
                 "repo": "instruct",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "ai",
+                  "gem",
+                  "ruby",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -354,12 +595,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workbench for practical machine learning in Ruby.",
+                "homepage": null,
                 "id": 123904389,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-11-02T03:50:26Z",
+                "open_issues": 1,
                 "owner": "giuse",
                 "repo": "machine_learning_workbench",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "black-box-optimization",
+                  "evolution-strategies",
+                  "evolutionary-algorithm",
+                  "evolutionary-algorithms",
+                  "evolutionary-computation",
+                  "evolutionary-strategy",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machine-learning-workbench",
+                  "modeling",
+                  "natural-evolution-strategies",
+                  "neural-network",
+                  "neural-networks",
+                  "neuroevolution",
+                  "optimization",
+                  "optimization-algorithms",
+                  "reinforcement-learning",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -370,12 +635,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "library for nlp with ruby",
+                "homepage": "https://rubygems.org/gems/rblearn",
                 "id": 31306399,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-08-03T11:34:53Z",
+                "open_issues": 0,
                 "owner": "himkt",
                 "repo": "rblearn",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "nlp",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -386,12 +659,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model your data with machine learning",
+                "homepage": null,
                 "id": 90835115,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-06-28T11:57:25Z",
+                "open_issues": 1,
                 "owner": "giuse",
                 "repo": "data_modeler",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "machine-learning",
+                  "machine-learning-library",
+                  "machinelearning",
+                  "ml",
+                  "modeling",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -409,12 +694,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby library for interfacing with FANN (Fast Artificial Neural Network)",
+                "homepage": "https://github.com/tangledpath/ruby-fann",
                 "id": 9036378,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-03-25T08:19:23Z",
+                "open_issues": 1,
                 "owner": "tangledpath",
                 "repo": "ruby-fann",
-                "stars": 506
+                "stars": 506,
+                "topics": [
+                  "ai",
+                  "c",
+                  "fann",
+                  "machine-learning",
+                  "native",
+                  "neural-network",
+                  "neural-networks",
+                  "nn",
+                  "ruby-fann",
+                  "ruby-gem",
+                  "rubygems"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -425,12 +727,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neural network, written in Ruby",
+                "homepage": null,
                 "id": 26185477,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2017-07-02T12:13:00Z",
+                "open_issues": 0,
                 "owner": "gbuesing",
                 "repo": "neural-net-ruby",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "neural-network",
+                  "rprop",
+                  "ruby",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -441,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recurrent Neural Network library for Ruby",
+                "homepage": null,
                 "id": 6060072,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-01-04T15:22:52Z",
+                "open_issues": 3,
                 "owner": "josephwilk",
                 "repo": "tlearn-rb",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -457,12 +774,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A feedforward neural network implementation for JRuby",
+                "homepage": null,
                 "id": 62844371,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-03-20T22:39:55Z",
+                "open_issues": 0,
                 "owner": "jedld",
                 "repo": "brains-jruby",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "jruby",
+                  "machine-learning",
+                  "neural-network"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -473,12 +799,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artificial Neural Networks (ANN's) in Ruby (unmaintained, unfortunately)",
+                "homepage": null,
                 "id": 55458165,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-03-03T03:54:26Z",
+                "open_issues": 0,
                 "owner": "irfansharif",
                 "repo": "cerebrum",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "ann",
+                  "neural-network",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -489,12 +824,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workbench for practical machine learning in Ruby.",
+                "homepage": null,
                 "id": 123904389,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-11-02T03:50:26Z",
+                "open_issues": 1,
                 "owner": "giuse",
                 "repo": "machine_learning_workbench",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "black-box-optimization",
+                  "evolution-strategies",
+                  "evolutionary-algorithm",
+                  "evolutionary-algorithms",
+                  "evolutionary-computation",
+                  "evolutionary-strategy",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machine-learning-workbench",
+                  "modeling",
+                  "natural-evolution-strategies",
+                  "neural-network",
+                  "neural-networks",
+                  "neuroevolution",
+                  "optimization",
+                  "optimization-algorithms",
+                  "reinforcement-learning",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -505,12 +864,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby Artificial Neural Networks",
+                "homepage": null,
                 "id": 110001580,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2017-12-11T14:59:03Z",
+                "open_issues": 6,
                 "owner": "mikecmpbll",
                 "repo": "rann",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -528,12 +894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning for Ruby, powered by LibTorch",
+                "homepage": null,
                 "id": 224114339,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-08T20:24:20Z",
+                "open_issues": 5,
                 "owner": "ankane",
                 "repo": "torch.rb",
-                "stars": 839
+                "stars": 839,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -544,12 +915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tensorflow for ruby",
+                "homepage": null,
                 "id": 61302869,
                 "language": "Ruby",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-01-10T15:41:18Z",
+                "open_issues": 15,
                 "owner": "somaticio",
                 "repo": "tensorflow.rb",
-                "stars": 832
+                "stars": 832,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -560,12 +936,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ground-up and standalone reimplementation of TensorFlow for ruby. Comes with a pure ruby and OpenCL opcode evaluator",
+                "homepage": null,
                 "id": 133031125,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-12-26T21:59:58Z",
+                "open_issues": 2,
                 "owner": "jedld",
                 "repo": "tensor_stream",
-                "stars": 505
+                "stars": 505,
+                "topics": [
+                  "machine-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -576,12 +960,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible framework for neural network for Ruby",
+                "homepage": null,
                 "id": 94381080,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-01-05T21:42:25Z",
+                "open_issues": 5,
                 "owner": "red-data-tools",
                 "repo": "red-chainer",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -592,12 +981,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MXNet binding for Ruby",
+                "homepage": null,
                 "id": 101652920,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-12-22T13:16:08Z",
+                "open_issues": 22,
                 "owner": "mrkn",
                 "repo": "mxnet.rb",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -608,12 +1002,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ruby-dnn is a ruby deep learning library.",
+                "homepage": null,
                 "id": 139295321,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-07-04T23:04:08Z",
+                "open_issues": 3,
                 "owner": "unagiootoro",
                 "repo": "ruby-dnn",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "machine-learning",
+                  "neural-network",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -631,12 +1036,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby language bindings for LIBSVM",
+                "homepage": null,
                 "id": 151285,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-12-07T20:35:24Z",
+                "open_issues": 2,
                 "owner": "febeling",
                 "repo": "rb-libsvm",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "libsvm",
+                  "machine-learning",
+                  "ml",
+                  "ruby",
+                  "ruby-bindings",
+                  "ruby-language-bindings",
+                  "rubyml",
+                  "svm",
+                  "svm-classifier",
+                  "svm-learning",
+                  "svm-training"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -654,12 +1076,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workbench for practical machine learning in Ruby.",
+                "homepage": null,
                 "id": 123904389,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-11-02T03:50:26Z",
+                "open_issues": 1,
                 "owner": "giuse",
                 "repo": "machine_learning_workbench",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "black-box-optimization",
+                  "evolution-strategies",
+                  "evolutionary-algorithm",
+                  "evolutionary-algorithms",
+                  "evolutionary-computation",
+                  "evolutionary-strategy",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machine-learning-workbench",
+                  "modeling",
+                  "natural-evolution-strategies",
+                  "neural-network",
+                  "neural-networks",
+                  "neuroevolution",
+                  "optimization",
+                  "optimization-algorithms",
+                  "reinforcement-learning",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -670,12 +1116,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Genetic Algorithm for demonstration purposes",
+                "homepage": null,
                 "id": 72015954,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-10-26T15:24:50Z",
+                "open_issues": 0,
                 "owner": "giuse",
                 "repo": "simple_ga",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "demo",
+                  "evolutionary-algorithm",
+                  "evolutionary-algorithms",
+                  "evolutionary-computation",
+                  "example",
+                  "genetic-algorithm",
+                  "rubyml",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -693,12 +1153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A robust, full-featured Ruby implementation of Naive Bayes",
+                "homepage": null,
                 "id": 4552397,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-02-12T21:38:14Z",
+                "open_issues": 3,
                 "owner": "oasic",
                 "repo": "nbayes",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -709,12 +1174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Naive Bayes classifier",
+                "homepage": "http://redwriteshere.com",
                 "id": 373074,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2012-01-29T18:52:48Z",
+                "open_issues": 6,
                 "owner": "reddavis",
                 "repo": "Naive-Bayes",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -725,12 +1195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A redis-backed Bayesian classifier",
+                "homepage": null,
                 "id": 6419863,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2015-12-26T06:25:04Z",
+                "open_issues": 2,
                 "owner": "djcp",
                 "repo": "linnaeus",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -748,12 +1223,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ID3-based implementation of the ML Decision Tree algorithm",
+                "homepage": null,
                 "id": 135191,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2018-10-31T15:22:42Z",
+                "open_issues": 10,
                 "owner": "igrigorik",
                 "repo": "decisiontree",
-                "stars": 1490
+                "stars": 1490,
+                "topics": [
+                  "decision-tree",
+                  "machine-learning",
+                  "ruby",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -771,12 +1256,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "K Means",
+                "homepage": "http://red.to",
                 "id": 278624,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-06-16T09:48:22Z",
+                "open_issues": 2,
                 "owner": "reddavis",
                 "repo": "K-Means",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -787,12 +1277,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "k-means clustering in Ruby",
+                "homepage": null,
                 "id": 29763874,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-09-21T23:11:16Z",
+                "open_issues": 8,
                 "owner": "gbuesing",
                 "repo": "kmeans-clusterer",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "clustering",
+                  "kmeans-clustering",
+                  "ruby",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -803,12 +1303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple K Nearest Neighbour Algorithm",
+                "homepage": null,
                 "id": 405780,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-05-22T12:15:44Z",
+                "open_issues": 4,
                 "owner": "reddavis",
                 "repo": "knn",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -826,12 +1331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification and other large linear classifications)",
+                "homepage": null,
                 "id": 139964,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-27T00:26:40Z",
+                "open_issues": 5,
                 "owner": "tomz",
                 "repo": "liblinear-ruby-swig",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -842,12 +1352,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 14516097,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-03-29T17:54:11Z",
+                "open_issues": 3,
                 "owner": "kei500",
                 "repo": "liblinear-ruby",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "machine-learning",
+                  "ml",
+                  "ruby",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -865,12 +1385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Ruby wrapper for Latent Dirichlet Allocation (LDA).",
+                "homepage": "lda-ruby",
                 "id": 76136,
                 "language": "Ruby",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-05-04T16:20:42Z",
+                "open_issues": 0,
                 "owner": "ealdent",
                 "repo": "lda-ruby",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -881,12 +1406,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Naive Bayes text classification implementation as an OmniCat classifier strategy. (#ruby #naivebayes)",
+                "homepage": null,
                 "id": 11218091,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-01-13T06:38:47Z",
+                "open_issues": 1,
                 "owner": "mustafaturan",
                 "repo": "omnicat-bayes",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "naive-bayes-classifier",
+                  "ruby",
+                  "sentiment-analysis",
+                  "stopwords",
+                  "text-classification",
+                  "tokenizer"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -897,12 +1434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A generalized rack framework for text classifications.",
+                "homepage": null,
                 "id": 10713038,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-01-13T06:38:43Z",
+                "open_issues": 0,
                 "owner": "mustafaturan",
                 "repo": "omnicat",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -913,12 +1455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework",
+                "homepage": null,
                 "id": 182761,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2009-07-06T16:50:21Z",
+                "open_issues": 0,
                 "owner": "mccraigmccraig",
                 "repo": "maxent_string_classifier",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -929,12 +1476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Ruby interface to the Timbl machine-learning library",
+                "homepage": "http://github.com/markisisme/rtimbl/tree/master",
                 "id": 253211,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2009-10-23T20:41:12Z",
+                "open_issues": 0,
                 "owner": "maspwr",
                 "repo": "rtimbl",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -952,12 +1504,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance gradient boosting for Ruby",
+                "homepage": null,
                 "id": 202525164,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T11:40:20Z",
+                "open_issues": 0,
                 "owner": "ankane",
                 "repo": "xgboost-ruby",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "machine-learning",
+                  "rubyml",
+                  "xgboost"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -968,12 +1529,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance gradient boosting for Ruby",
+                "homepage": null,
                 "id": 202269423,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-18T22:49:55Z",
+                "open_issues": 0,
                 "owner": "ankane",
                 "repo": "lightgbm-ruby",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "lightgbm",
+                  "machine-learning",
+                  "rubyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -984,12 +1554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby binding for XGBoost",
+                "homepage": null,
                 "id": 109431762,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-04-12T17:44:59Z",
+                "open_issues": 0,
                 "owner": "PairOnAir",
                 "repo": "xgboost-ruby",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -1007,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Library for Approximate Nearest Neighbors",
+                "homepage": "http://people.cs.ubc.ca/~mariusm/flann",
                 "id": 1538047,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-29T19:01:47Z",
+                "open_issues": 298,
                 "owner": "flann-lib",
                 "repo": "flann",
-                "stars": 2373
+                "stars": 2373,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -1023,12 +1603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby client for Pinecone Vector DB",
+                "homepage": null,
                 "id": 597048556,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-03-18T19:39:40Z",
+                "open_issues": 2,
                 "owner": "ScotterC",
                 "repo": "pinecone",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -1039,12 +1624,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby wrapper for the Qdrant vector search database API",
+                "homepage": "https://rubydoc.info/gems/qdrant-ruby",
                 "id": 624549430,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T14:29:22Z",
+                "open_issues": 1,
                 "owner": "patterns-ai-core",
                 "repo": "qdrant-ruby",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "api-client",
+                  "embedding-vectors",
+                  "machine-learning",
+                  "ml",
+                  "qdrant",
+                  "ruby",
+                  "rubyml",
+                  "vector-search",
+                  "vector-search-engine"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -1055,12 +1655,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby wrapper for the Weaviate vector search database API",
+                "homepage": "https://rubydoc.info/gems/weaviate-ruby",
                 "id": 618703002,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-04-17T22:32:38Z",
+                "open_issues": 9,
                 "owner": "patterns-ai-core",
                 "repo": "weaviate-ruby",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "api-client",
+                  "embedding-vectors",
+                  "machine-learning",
+                  "ml",
+                  "ruby",
+                  "rubyml",
+                  "vector-search",
+                  "vector-search-engine",
+                  "weaviate"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -1071,12 +1686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-speed approximate nearest neighbors for Ruby",
+                "homepage": null,
                 "id": 216916846,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-02T00:20:37Z",
+                "open_issues": 0,
                 "owner": "ankane",
                 "repo": "ngt-ruby",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -1087,12 +1707,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "annoy-rb provides Ruby bindings for the Annoy (Approximate Nearest Neighbors Oh Yeah).",
+                "homepage": "https://rubygems.org/gems/annoy-rb",
                 "id": 285339311,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T23:02:40Z",
+                "open_issues": 3,
                 "owner": "yoshoku",
                 "repo": "annoy-rb",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "approximate-nearest-neighbor-search",
+                  "gem",
+                  "nearest-neighbor-search",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -1103,12 +1733,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby wrapper for the Milvus vector search database API",
+                "homepage": "http://rubydoc.info/gems/milvus",
                 "id": 630589296,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-31T20:02:19Z",
+                "open_issues": 1,
                 "owner": "patterns-ai-core",
                 "repo": "milvus",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "api-client",
+                  "embedding-vectors",
+                  "machine-learning",
+                  "milvus",
+                  "ml",
+                  "ruby",
+                  "rubyml",
+                  "search-engine",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             },
@@ -1119,12 +1764,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "hnswlib.rb provides Ruby bindings for Hnswlib",
+                "homepage": "https://rubygems.org/gems/hnswlib",
                 "id": 388355820,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T13:44:59Z",
+                "open_issues": 3,
                 "owner": "yoshoku",
                 "repo": "hnswlib.rb",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "approximate-nearest-neighbor-search",
+                  "gem",
+                  "nearest-neighbor-search",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -1146,12 +1801,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files",
+            "homepage": null,
             "id": 677526,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-10-23T16:05:45Z",
+            "open_issues": 30,
             "owner": "westonplatter",
             "repo": "phashion",
-            "stars": 711
+            "stars": 711,
+            "topics": [
+              "duplicate-multimedia-files",
+              "image-analysis",
+              "phash",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         }
@@ -1173,12 +1838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 13728743,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2013-11-28T17:09:03Z",
+                "open_issues": 0,
                 "owner": "hexgnu",
                 "repo": "sentiment_analyzer",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
             }
@@ -1197,12 +1867,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Genetic Algorithm for demonstration purposes",
+            "homepage": null,
             "id": 72015954,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-10-26T15:24:50Z",
+            "open_issues": 0,
             "owner": "giuse",
             "repo": "simple_ga",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "demo",
+              "evolutionary-algorithm",
+              "evolutionary-algorithms",
+              "evolutionary-computation",
+              "example",
+              "genetic-algorithm",
+              "rubyml",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1213,12 +1897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Handwritten digits recognition using NN and Ruby 🧠💎",
+            "homepage": null,
             "id": 341019825,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2021-03-09T09:20:33Z",
+            "open_issues": 0,
             "owner": "jdrzj",
             "repo": "handwritten-digits-recognition",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1229,12 +1918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 15589716,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2014-04-02T04:35:12Z",
+            "open_issues": 0,
             "owner": "hexgnu",
             "repo": "wine_clustering",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         }
@@ -1251,12 +1945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An heroku buildpack with the latest version of ImageMagick",
+            "homepage": null,
             "id": 7715914,
             "language": "Shell",
+            "license": null,
             "last_commit": "2015-01-31T10:13:26Z",
+            "open_issues": 9,
             "owner": "mcollina",
             "repo": "heroku-buildpack-imagemagick",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1267,12 +1966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECIATED Heroku's Ruby buildpack adapted for using couchbase",
+            "homepage": null,
             "id": 5861224,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-08-15T23:19:48Z",
+            "open_issues": 3,
             "owner": "tomwolfe",
             "repo": "heroku-buildpack-gsl-ruby",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1283,12 +1987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heroku's Ruby Buildpack for Cedar",
+            "homepage": null,
             "id": 19255265,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2014-04-29T02:57:40Z",
+            "open_issues": 0,
             "owner": "nowaterlili",
             "repo": "heroku-buildpack-ruby-opencv",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         }
@@ -1305,12 +2014,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+            "homepage": "https://xgboost.readthedocs.io/",
             "id": 16587283,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:48:25Z",
+            "open_issues": 424,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28701
+            "stars": 28706,
+            "topics": [
+              "distributed-systems",
+              "gbdt",
+              "gbm",
+              "gbrt",
+              "machine-learning",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1321,12 +2042,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+            "homepage": "https://lightgbm.readthedocs.io/en/latest/",
             "id": 64991887,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:23:45Z",
+            "open_issues": 514,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18720
+            "stars": 18724,
+            "topics": [
+              "data-mining",
+              "decision-trees",
+              "distributed",
+              "gbdt",
+              "gbm",
+              "gbrt",
+              "gradient-boosting",
+              "kaggle",
+              "lightgbm",
+              "machine-learning",
+              "parallel",
+              "python",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1337,12 +2077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+            "homepage": null,
             "id": 52677592,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-02-08T17:13:47Z",
+            "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17550
+            "stars": 17549,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1353,12 +2098,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
+            "homepage": "https://awesome-ruby.com",
             "id": 21461715,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-13T09:40:38Z",
+            "open_issues": 8,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14147
+            "stars": 14148,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "collection",
+              "curated-list",
+              "ruby",
+              "ruby-libraries"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1369,12 +2126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Links to awesome OCR projects",
+            "homepage": "https://github.com/kba/awesome-ocr",
             "id": 57230505,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
+            "open_issues": 64,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3119
+            "stars": 3119,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1385,12 +2147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of speech and natural language processing resources",
+            "homepage": null,
             "id": 22443092,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-02T12:35:13Z",
+            "open_issues": 19,
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2225
+            "stars": 2225,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1401,12 +2168,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data processing & ETL framework for Ruby",
+            "homepage": "https://www.kiba-etl.org",
             "id": 11515100,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-10T19:13:05Z",
+            "open_issues": 0,
             "owner": "thbar",
             "repo": "kiba",
-            "stars": 1775
+            "stars": 1775,
+            "topics": [
+              "data",
+              "etl",
+              "etl-ruby",
+              "ruby",
+              "rubydatascience"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1417,12 +2195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software",
+            "homepage": null,
             "id": 32709807,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-05T22:29:08Z",
+            "open_issues": 2,
             "owner": "diasks2",
             "repo": "ruby-nlp",
-            "stars": 1285
+            "stars": 1285,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1433,12 +2216,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official gem repository: Ruby kernel for Jupyter/IPython Notebook",
+            "homepage": "https://github.com/SciRuby/iruby",
             "id": 31613113,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-30T01:27:30Z",
+            "open_issues": 49,
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 924
+            "stars": 924,
+            "topics": [
+              "interactive",
+              "jupyter",
+              "repl",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         },
@@ -1449,12 +2242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby interface to the GNU Scientific Library",
+            "homepage": "https://github.com/SciRuby/rb-gsl",
             "id": 5170153,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-03T15:27:16Z",
+            "open_issues": 40,
             "owner": "SciRuby",
             "repo": "rb-gsl",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
         }
@@ -1463,15 +2261,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:04:41.089Z",
+    "last_updated": "2026-08-29T03:40:49.337Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list: Resources for machine learning in Ruby",
+      "homepage": null,
       "id": 88849240,
       "language": "Ruby",
+      "license": "CC0-1.0",
       "last_commit": "2024-12-26T17:58:24Z",
+      "open_issues": 6,
       "owner": "arbox",
       "repo": "machine-learning-with-ruby",
-      "stars": 2222
+      "stars": 2222,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "machine-learning",
+        "ml",
+        "ruby",
+        "ruby-gem",
+        "rubyml",
+        "rubynlp"
+      ]
     },
     "original_repository_sha": "c8c2503b579653487516920a8b955591fbc3336f",
     "enhanced_repository": "enhansome/enhansome-machine-learning-with-ruby",
