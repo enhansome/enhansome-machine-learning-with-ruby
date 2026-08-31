@@ -2020,10 +2020,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:48:25Z",
-            "open_issues": 428,
+            "open_issues": 429,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28710,
+            "stars": 28715,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,8 +2047,8 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-29T15:03:17Z",
-            "open_issues": 515,
+            "last_commit": "2026-08-30T15:23:01Z",
+            "open_issues": 517,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
             "stars": 18729,
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17549,
+            "stars": 17550,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2104,7 +2104,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-13T09:40:38Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "markets",
             "repo": "awesome-ruby",
             "stars": 14150,
@@ -2132,7 +2132,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3119,
@@ -2177,7 +2177,7 @@
             "open_issues": 0,
             "owner": "thbar",
             "repo": "kiba",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "data",
               "etl",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:12:22.675Z",
+    "last_updated": "2026-08-31T00:28:23.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
@@ -2273,7 +2273,7 @@
       "open_issues": 6,
       "owner": "arbox",
       "repo": "machine-learning-with-ruby",
-      "stars": 2222,
+      "stars": 2223,
       "topics": [
         "awesome",
         "awesome-list",
