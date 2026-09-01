@@ -1,6 +1,6 @@
 <img title="Awesome Machine Learning with Ruby" alt="Awesome Machine Learning with Ruby" src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 501,457 | 🐛 105 | 📅 2026-08-21 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 501,744 | 🐛 105 | 📅 2026-08-21 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 720 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -89,7 +89,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
-* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,656 | 🐛 25 | 🌐 Ruby | 📅 2026-08-28 -
+* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,657 | 🐛 25 | 🌐 Ruby | 📅 2026-08-31 -
   Machine Learning API of the Amazon Web Services.
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) ⭐ 3,222 | 🐛 54 | 🌐 Ruby | 📅 2026-05-01 - OpenAI API wrapper
 * [shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,080 | 🐛 423 | 🌐 C++ | 📅 2023-12-19 - Polyfunctional and mature
@@ -119,7 +119,7 @@ programming languages with appropriate bindings for Ruby.
 * [Instruct](https://github.com/instruct-rb/instruct) ⭐ 49 | 🐛 1 | 🌐 Ruby | 📅 2025-02-07 - Inspired by Guidance; weave code, prompts and completions together to instruct LLMs to do what you want.
 * [machine\_learning\_workbench](https://github.com/giuse/machine_learning_workbench) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2021-11-02 -
   Growing machine learning framework written in pure Ruby, high performance computing using
-  [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 5 | 🌐 C | 📅 2026-08-29.
+  [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 5 | 🌐 C | 📅 2026-08-31.
   Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
   examples and utilities.
 * [rblearn](https://github.com/himkt/rblearn) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-08-03 - Feature Extraction and Crossvalidation library.
@@ -148,7 +148,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Deep learning
 
-* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 839 | 🐛 5 | 🌐 Ruby | 📅 2026-07-08 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 102,686 | 🐛 17,473 | 🌐 Python | 📅 2026-08-31
+* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 839 | 🐛 5 | 🌐 Ruby | 📅 2026-07-08 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 102,696 | 🐛 17,498 | 🌐 Python | 📅 2026-09-01
   using [rice](https://github.com/jasonroelofs/rice) ⭐ 416 | 🐛 2 | 🌐 C++ | 📅 2026-05-05.
 * [tensorflow](https://github.com/somaticio/tensorflow.rb) ⭐ 832 | 🐛 15 | 🌐 Ruby | 📅 2022-01-10 - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 * [tensor\_stream](https://github.com/jedld/tensor_stream) ⭐ 504 | 🐛 2 | 🌐 Ruby | 📅 2020-12-26 -
@@ -228,8 +228,8 @@ programming languages with appropriate bindings for Ruby.
 
 ### Vector search
 
-* [flann](https://github.com/mariusmuja/flann) ⭐ 2,373 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 -
-  Ruby bindings for the [FLANN](https://github.com/flann-lib/flann) ⭐ 2,373 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
+* [flann](https://github.com/mariusmuja/flann) ⭐ 2,373 | 🐛 297 | 🌐 C++ | 📅 2024-07-29 -
+  Ruby bindings for the [FLANN](https://github.com/flann-lib/flann) ⭐ 2,373 | 🐛 297 | 🌐 C++ | 📅 2024-07-29 (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
 * [pinecone](https://github.com/ScotterC/pinecone) ⭐ 67 | 🐛 2 | 🌐 Ruby | 📅 2026-03-18 —
   Ruby client for Pinecone Vector DB.
 * [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) ⭐ 61 | 🐛 1 | 🌐 Ruby | 📅 2026-08-12 —
@@ -237,7 +237,7 @@ programming languages with appropriate bindings for Ruby.
 * [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) ⭐ 58 | 🐛 9 | 🌐 Ruby | 📅 2026-04-17 —
   Ruby wrapper for the Weaviate vector search database API.
 * [ngt-ruby](https://github.com/ankane/ngt-ruby) ⭐ 53 | 🐛 0 | 🌐 Ruby | 📅 2026-04-02 -
-  Ruby bindings for the [NGT](https://github.com/yahoojapan/NGT) ⭐ 1,370 | 🐛 30 | 🌐 C++ | 📅 2026-07-27 (Neighborhood Graph and Tree for Indexing High-dimensional data).
+  Ruby bindings for the [NGT](https://github.com/yahoojapan/NGT) ⭐ 1,370 | 🐛 30 | 🌐 C++ | 📅 2026-08-31 (Neighborhood Graph and Tree for Indexing High-dimensional data).
 * [annoy-rb](https://github.com/yoshoku/annoy.rb) ⭐ 37 | 🐛 3 | 🌐 C++ | 📅 2026-06-18 -
   Ruby bindings for the [Annoy](https://github.com/spotify/annoy) ⭐ 14,291 | 🐛 86 | 🌐 C++ | 📅 2025-10-29 (Approximate Nearest Neighbors Oh Yeah).
 * [milvus](https://github.com/andreibondarev/milvus) ⭐ 33 | 🐛 1 | 🌐 Ruby | 📅 2025-03-31 —
@@ -377,9 +377,9 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Related Resources
 
 * <a name="xgboost"></a>
-  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,715 | 🐛 429 | 🌐 C++ | 📅 2026-08-27
+  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,718 | 🐛 429 | 🌐 C++ | 📅 2026-08-31
 * <a name="lightgbm"></a>
-  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,729 | 🐛 517 | 🌐 C++ | 📅 2026-08-30
+  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,733 | 🐛 515 | 🌐 C++ | 📅 2026-08-31
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,550 | 🐛 34 | 📅 2026-02-08 -
   Machine Learning with TensorFlow libraries.
 * [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) ⭐ 14,150 | 🐛 7 | 📅 2026-08-13 -
@@ -460,4 +460,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
