@@ -361,8 +361,8 @@
                 "id": 105371532,
                 "language": "Ruby",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-02T23:26:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-05T10:54:47Z",
+                "open_issues": 0,
                 "owner": "yoshoku",
                 "repo": "rumale",
                 "stars": 917,
@@ -2023,7 +2023,7 @@
             "open_issues": 429,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28733,
+            "stars": 28736,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2048,10 +2048,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-03T04:42:18Z",
-            "open_issues": 513,
+            "open_issues": 515,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18744,
+            "stars": 18747,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2135,7 +2135,7 @@
             "open_issues": 67,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3119,
+            "stars": 3120,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:58:43.755Z",
+    "last_updated": "2026-09-05T23:49:03.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
