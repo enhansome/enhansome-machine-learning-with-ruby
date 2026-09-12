@@ -245,7 +245,7 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T20:01:57Z",
+                "last_commit": "2026-09-11T19:37:42Z",
                 "open_issues": 25,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
@@ -308,7 +308,7 @@
                 "open_issues": 424,
                 "owner": "shogun-toolbox",
                 "repo": "shogun",
-                "stars": 3080,
+                "stars": 3081,
                 "topics": [
                   "artificial-intelligence",
                   "c-plus-plus",
@@ -1232,7 +1232,7 @@
                 "open_issues": 10,
                 "owner": "igrigorik",
                 "repo": "decisiontree",
-                "stars": 1490,
+                "stars": 1491,
                 "topics": [
                   "decision-tree",
                   "machine-learning",
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T17:33:27Z",
-            "open_issues": 438,
+            "last_commit": "2026-09-11T08:59:57Z",
+            "open_issues": 436,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28751,
+            "stars": 28754,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2051,7 +2051,7 @@
             "open_issues": 512,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18759,
+            "stars": 18760,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17551,
+            "stars": 17552,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:03:15.345Z",
+    "last_updated": "2026-09-12T00:11:52.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
