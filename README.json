@@ -361,8 +361,8 @@
                 "id": 105371532,
                 "language": "Ruby",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T10:54:47Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-13T04:58:04Z",
+                "open_issues": 1,
                 "owner": "yoshoku",
                 "repo": "rumale",
                 "stars": 918,
@@ -2020,10 +2020,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T08:59:57Z",
-            "open_issues": 436,
+            "open_issues": 439,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28756,
+            "stars": 28759,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,11 +2047,11 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-12T04:19:05Z",
-            "open_issues": 512,
+            "last_commit": "2026-09-13T03:46:31Z",
+            "open_issues": 514,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18762,
+            "stars": 18763,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2107,7 +2107,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14152,
+            "stars": 14154,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:57:56.895Z",
+    "last_updated": "2026-09-14T00:06:22.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
