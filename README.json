@@ -249,7 +249,7 @@
                 "open_issues": 28,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
-                "stars": 3656,
+                "stars": 3657,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T10:45:25Z",
-            "open_issues": 442,
+            "last_commit": "2026-09-20T17:41:51Z",
+            "open_issues": 436,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28778,
+            "stars": 28780,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2051,7 +2051,7 @@
             "open_issues": 518,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18781,
+            "stars": 18787,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2132,10 +2132,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3123,
+            "stars": 3124,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2153,7 +2153,7 @@
             "language": null,
             "license": null,
             "last_commit": "2019-04-02T12:35:13Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "edobashira",
             "repo": "speech-language-processing",
             "stars": 2225,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:06:10.504Z",
+    "last_updated": "2026-09-21T00:10:53.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
