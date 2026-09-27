@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T17:19:12Z",
-            "open_issues": 443,
+            "last_commit": "2026-09-26T10:15:19Z",
+            "open_issues": 442,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28794,
+            "stars": 28796,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2048,10 +2048,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-25T04:09:17Z",
-            "open_issues": 522,
+            "open_issues": 526,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18813,
+            "stars": 18818,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:33:54.496Z",
+    "last_updated": "2026-09-27T00:29:21.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
