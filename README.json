@@ -245,8 +245,8 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T19:39:54Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-28T19:46:04Z",
+                "open_issues": 27,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3657,
@@ -1591,7 +1591,7 @@
                 "open_issues": 298,
                 "owner": "flann-lib",
                 "repo": "flann",
-                "stars": 2377,
+                "stars": 2376,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T10:15:19Z",
-            "open_issues": 443,
+            "last_commit": "2026-09-28T09:02:18Z",
+            "open_issues": 444,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28797,
+            "stars": 28804,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2048,7 +2048,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-27T20:22:24Z",
-            "open_issues": 531,
+            "open_issues": 533,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
             "stars": 18819,
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17550,
+            "stars": 17549,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2107,7 +2107,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14159,
+            "stars": 14160,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:36:09.228Z",
+    "last_updated": "2026-09-29T01:50:23.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
