@@ -245,7 +245,7 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T19:46:04Z",
+                "last_commit": "2026-09-29T19:52:34Z",
                 "open_issues": 27,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
@@ -1612,7 +1612,7 @@
                 "open_issues": 2,
                 "owner": "ScotterC",
                 "repo": "pinecone",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T09:02:18Z",
-            "open_issues": 444,
+            "last_commit": "2026-09-29T23:07:59Z",
+            "open_issues": 442,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28804,
+            "stars": 28808,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,11 +2047,11 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-27T20:22:24Z",
-            "open_issues": 533,
+            "last_commit": "2026-09-29T21:35:48Z",
+            "open_issues": 536,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18819,
+            "stars": 18823,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17549,
+            "stars": 17546,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2107,7 +2107,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14160,
+            "stars": 14162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2156,7 +2156,7 @@
             "open_issues": 18,
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2225,
+            "stars": 2226,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:50:23.915Z",
+    "last_updated": "2026-09-30T01:14:49.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
