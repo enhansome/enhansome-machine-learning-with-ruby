@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Teaching an AI to play a simple game using Q-Learning in Ruby",
-          "description": "[code]",
+          "description": "daugaard/q-learning-simple-game",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Teaching a Neural Network to play a game using Q-Learning in Ruby",
-          "description": "[code]",
+          "description": "daugaard/q-learning-simple-game",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "How to evolve neural networks in Ruby using the Machine Learning Workbench",
-          "description": null,
+          "description": "giuse/machine_learning_workbench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -102,7 +102,7 @@
         {
           "node_type": "item",
           "title": "How to implement simple binary classification using a Neural Network in Ruby",
-          "description": "[code]",
+          "description": "daugaard/example-neural-network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,7 +125,7 @@
         {
           "node_type": "item",
           "title": "How to implement classification using a SVM in Ruby",
-          "description": "[code]",
+          "description": "daugaard/example-svm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "How to implement linear regression in Ruby",
-          "description": "[code]",
+          "description": "daugaard/example-linear-regression",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "Using the Python scikit-learn machine learning library in Ruby using PyCall",
-          "description": "[code]",
+          "description": "daugaard/scikit-learn-from-ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,7 +202,7 @@
         {
           "node_type": "item",
           "title": "Unsupervised learning using k-means clustering in Ruby",
-          "description": "[code]",
+          "description": "daugaard/example-kmeans-clustering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1941,7 +1941,7 @@
         {
           "node_type": "item",
           "title": "ImageMagick buildpack",
-          "description": null,
+          "description": "mcollina/heroku-buildpack-imagemagick",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1962,7 +1962,7 @@
         {
           "node_type": "item",
           "title": "GSL and Ruby buildpack",
-          "description": null,
+          "description": "tomwolfe/heroku-buildpack-gsl-ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1983,7 +1983,7 @@
         {
           "node_type": "item",
           "title": "OpenCV and Ruby buildpack",
-          "description": null,
+          "description": "nowaterlili/heroku-buildpack-ruby-opencv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2010,7 +2010,7 @@
         {
           "node_type": "item",
           "title": "XGBoost",
-          "description": null,
+          "description": "dmlc/xgboost",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2020,10 +2020,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T21:06:53Z",
-            "open_issues": 445,
+            "open_issues": 447,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28815,
+            "stars": 28816,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2038,7 +2038,7 @@
         {
           "node_type": "item",
           "title": "LightGBM",
-          "description": null,
+          "description": "lightgbm-org/LightGBM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2051,7 +2051,7 @@
             "open_issues": 538,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18827,
+            "stars": 18828,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2107,7 +2107,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14163,
+            "stars": 14164,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:06:35.865Z",
+    "last_updated": "2026-10-03T04:53:40.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
