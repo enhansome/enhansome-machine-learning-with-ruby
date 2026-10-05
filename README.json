@@ -275,7 +275,7 @@
                 "open_issues": 55,
                 "owner": "alexrudall",
                 "repo": "ruby-openai",
-                "stars": 3222,
+                "stars": 3223,
                 "topics": [
                   "ai",
                   "api-client",
@@ -336,7 +336,7 @@
                 "open_issues": 74,
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 1999,
+                "stars": 2000,
                 "topics": [
                   "agents",
                   "ai-agents",
@@ -1232,7 +1232,7 @@
                 "open_issues": 10,
                 "owner": "igrigorik",
                 "repo": "decisiontree",
-                "stars": 1495,
+                "stars": 1497,
                 "topics": [
                   "decision-tree",
                   "machine-learning",
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:06:53Z",
+            "last_commit": "2026-10-04T13:56:26Z",
             "open_issues": 449,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28822,
+            "stars": 28827,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2048,10 +2048,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-02T19:50:20Z",
-            "open_issues": 540,
+            "open_issues": 543,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18829,
+            "stars": 18832,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2103,7 +2103,7 @@
             "id": 21461715,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-01T16:25:26Z",
+            "last_commit": "2026-10-04T08:37:09Z",
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
@@ -2132,7 +2132,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3125,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:32:34.351Z",
+    "last_updated": "2026-10-05T00:49:15.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
@@ -2273,7 +2273,7 @@
       "open_issues": 8,
       "owner": "arbox",
       "repo": "machine-learning-with-ruby",
-      "stars": 2227,
+      "stars": 2228,
       "topics": [
         "awesome",
         "awesome-list",
