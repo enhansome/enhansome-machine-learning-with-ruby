@@ -1591,7 +1591,7 @@
                 "open_issues": 298,
                 "owner": "flann-lib",
                 "repo": "flann",
-                "stars": 2377,
+                "stars": 2378,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T13:56:26Z",
-            "open_issues": 453,
+            "last_commit": "2026-10-06T03:53:09Z",
+            "open_issues": 457,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28829,
+            "stars": 28830,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2051,7 +2051,7 @@
             "open_issues": 542,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18831,
+            "stars": 18832,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17534,
+            "stars": 17535,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2107,7 +2107,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14165,
+            "stars": 14166,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2132,7 +2132,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 73,
+            "open_issues": 72,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3123,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:13:14.105Z",
+    "last_updated": "2026-10-06T10:52:15.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
