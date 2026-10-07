@@ -245,11 +245,11 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T16:19:58Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-06T23:26:55Z",
+                "open_issues": 24,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
-                "stars": 3656,
+                "stars": 3657,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -336,7 +336,7 @@
                 "open_issues": 74,
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 2000,
+                "stars": 1999,
                 "topics": [
                   "agents",
                   "ai-agents",
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T03:53:09Z",
-            "open_issues": 457,
+            "last_commit": "2026-10-06T23:52:38Z",
+            "open_issues": 453,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28830,
+            "stars": 28834,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2135,7 +2135,7 @@
             "open_issues": 72,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3123,
+            "stars": 3124,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:15.142Z",
+    "last_updated": "2026-10-07T01:27:39.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
