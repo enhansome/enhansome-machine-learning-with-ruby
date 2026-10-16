@@ -245,8 +245,8 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T23:29:04Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-16T00:02:50Z",
+                "open_issues": 29,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3658,
@@ -332,8 +332,8 @@
                 "id": 629651008,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-14T17:40:21Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-15T19:26:00Z",
+                "open_issues": 72,
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
                 "stars": 2001,
@@ -903,7 +903,7 @@
                 "open_issues": 5,
                 "owner": "ankane",
                 "repo": "torch.rb",
-                "stars": 840,
+                "stars": 841,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
@@ -1633,7 +1633,7 @@
                 "open_issues": 1,
                 "owner": "patterns-ai-core",
                 "repo": "qdrant-ruby",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "api-client",
                   "embedding-vectors",
@@ -1664,7 +1664,7 @@
                 "open_issues": 9,
                 "owner": "patterns-ai-core",
                 "repo": "weaviate-ruby",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "api-client",
                   "embedding-vectors",
@@ -1742,7 +1742,7 @@
                 "open_issues": 1,
                 "owner": "patterns-ai-core",
                 "repo": "milvus",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "api-client",
                   "embedding-vectors",
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T15:04:15Z",
-            "open_issues": 453,
+            "last_commit": "2026-10-15T11:35:32Z",
+            "open_issues": 452,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28874,
+            "stars": 28879,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,11 +2047,11 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-14T02:36:41Z",
+            "last_commit": "2026-10-15T03:45:54Z",
             "open_issues": 538,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18879,
+            "stars": 18884,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17534,
+            "stars": 17533,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2156,7 +2156,7 @@
             "open_issues": 18,
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2226,
+            "stars": 2227,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:28:25.435Z",
+    "last_updated": "2026-10-16T00:19:05.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
