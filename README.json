@@ -903,7 +903,7 @@
                 "open_issues": 5,
                 "owner": "ankane",
                 "repo": "torch.rb",
-                "stars": 841,
+                "stars": 842,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2020,10 +2020,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T11:14:45Z",
-            "open_issues": 451,
+            "open_issues": 454,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28904,
+            "stars": 28909,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,11 +2047,11 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-24T04:43:03Z",
-            "open_issues": 530,
+            "last_commit": "2026-10-25T14:38:03Z",
+            "open_issues": 531,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18913,
+            "stars": 18915,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17531,
+            "stars": 17532,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2104,10 +2104,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-05T07:53:58Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14176,
+            "stars": 14179,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2225,7 +2225,7 @@
             "open_issues": 49,
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 925,
+            "stars": 926,
             "topics": [
               "interactive",
               "jupyter",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:16:01.093Z",
+    "last_updated": "2026-10-26T00:12:07.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
