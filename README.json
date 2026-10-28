@@ -245,11 +245,11 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T23:49:00Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-27T20:30:21Z",
+                "open_issues": 31,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
-                "stars": 3657,
+                "stars": 3655,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T16:00:20Z",
-            "open_issues": 450,
+            "last_commit": "2026-10-27T22:43:34Z",
+            "open_issues": 449,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28913,
+            "stars": 28916,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,11 +2047,11 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-26T03:59:34Z",
-            "open_issues": 533,
+            "last_commit": "2026-10-27T20:30:14Z",
+            "open_issues": 531,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18922,
+            "stars": 18932,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2107,7 +2107,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14181,
+            "stars": 14178,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:25:46.981Z",
+    "last_updated": "2026-10-28T01:13:44.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
