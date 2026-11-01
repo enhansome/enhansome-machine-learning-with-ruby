@@ -246,7 +246,7 @@
                 "language": "Ruby",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T19:30:09Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3654,
@@ -333,10 +333,10 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-10-21T22:46:44Z",
-                "open_issues": 75,
+                "open_issues": 82,
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 2006,
+                "stars": 2007,
                 "topics": [
                   "agents",
                   "ai-agents",
@@ -492,7 +492,7 @@
                 "open_issues": 3,
                 "owner": "giuse",
                 "repo": "DNE",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "rubyml"
                 ]
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T22:48:46Z",
-            "open_issues": 449,
+            "last_commit": "2026-10-31T09:56:19Z",
+            "open_issues": 451,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28928,
+            "stars": 28930,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,7 +2047,7 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-29T20:29:33Z",
+            "last_commit": "2026-10-31T03:37:47Z",
             "open_issues": 531,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
@@ -2132,10 +2132,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3125,
+            "stars": 3126,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:31:58.453Z",
+    "last_updated": "2026-11-01T01:01:41.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
