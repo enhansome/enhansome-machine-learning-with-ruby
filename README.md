@@ -1,6 +1,6 @@
 <img title="Awesome Machine Learning with Ruby" alt="Awesome Machine Learning with Ruby" src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 530,377 | 🐛 103 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 531,036 | 🐛 103 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,077 | 🐛 9 | 🌐 Ruby | 📅 2023-06-27 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 723 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -89,7 +89,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
-* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,654 | 🐛 32 | 🌐 Ruby | 📅 2026-11-03 -
+* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,654 | 🐛 30 | 🌐 Ruby | 📅 2026-11-04 -
   Machine Learning API of the Amazon Web Services.
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) ⭐ 3,222 | 🐛 56 | 🌐 Ruby | 📅 2026-05-01 - OpenAI API wrapper
 * [shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,084 | 🐛 425 | 🌐 C++ | 📅 2023-12-19 - Polyfunctional and mature
@@ -128,7 +128,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Neural networks
 
-* [ruby-fann](https://github.com/tangledpath/ruby-fann) ⭐ 507 | 🐛 1 | 🌐 C | 📅 2024-03-25 -
+* [ruby-fann](https://github.com/tangledpath/ruby-fann) ⭐ 506 | 🐛 1 | 🌐 C | 📅 2024-03-25 -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 * [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) ⭐ 127 | 🐛 0 | 🌐 Ruby | 📅 2017-07-02 -
   Neural network written in Ruby.
@@ -148,7 +148,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Deep learning
 
-* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 842 | 🐛 5 | 🌐 Ruby | 📅 2026-10-28 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 105,117 | 🐛 17,896 | 🌐 Python | 📅 2026-11-04
+* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 842 | 🐛 5 | 🌐 Ruby | 📅 2026-10-28 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 105,148 | 🐛 17,951 | 🌐 Python | 📅 2026-11-05
   using [rice](https://github.com/jasonroelofs/rice) ⭐ 415 | 🐛 2 | 🌐 C++ | 📅 2026-05-05.
 * [tensorflow](https://github.com/somaticio/tensorflow.rb) ⭐ 832 | 🐛 15 | 🌐 Ruby | 📅 2022-01-10 - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 * [tensor\_stream](https://github.com/jedld/tensor_stream) ⭐ 504 | 🐛 2 | 🌐 Ruby | 📅 2020-12-26 -
@@ -183,7 +183,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Decision trees
 
-* [decisiontree](https://github.com/igrigorik/decisiontree) ⭐ 1,501 | 🐛 10 | 🌐 Ruby | 📅 2018-10-31 -
+* [decisiontree](https://github.com/igrigorik/decisiontree) ⭐ 1,502 | 🐛 10 | 🌐 Ruby | 📅 2018-10-31 -
   Decision Tree ID3 Algorithm in pure Ruby. <sup>\[[dep: GraphViz](#graphviz) |
   [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 
@@ -228,8 +228,8 @@ programming languages with appropriate bindings for Ruby.
 
 ### Vector search
 
-* [flann](https://github.com/mariusmuja/flann) ⭐ 2,381 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 -
-  Ruby bindings for the [FLANN](https://github.com/flann-lib/flann) ⭐ 2,381 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
+* [flann](https://github.com/mariusmuja/flann) ⭐ 2,380 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 -
+  Ruby bindings for the [FLANN](https://github.com/flann-lib/flann) ⭐ 2,380 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
 * [pinecone](https://github.com/ScotterC/pinecone) ⭐ 68 | 🐛 2 | 🌐 Ruby | 📅 2026-03-18 —
   Ruby client for Pinecone Vector DB.
 * [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) ⭐ 62 | 🐛 0 | 🌐 Ruby | 📅 2026-10-21 —
@@ -237,13 +237,13 @@ programming languages with appropriate bindings for Ruby.
 * [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) ⭐ 59 | 🐛 0 | 🌐 Ruby | 📅 2026-10-21 —
   Ruby wrapper for the Weaviate vector search database API.
 * [ngt-ruby](https://github.com/ankane/ngt-ruby) ⭐ 53 | 🐛 0 | 🌐 Ruby | 📅 2026-04-02 -
-  Ruby bindings for the [NGT](https://github.com/yahoojapan/NGT) ⭐ 1,377 | 🐛 29 | 🌐 C++ | 📅 2026-10-30 (Neighborhood Graph and Tree for Indexing High-dimensional data).
+  Ruby bindings for the [NGT](https://github.com/yahoojapan/NGT) ⭐ 1,376 | 🐛 29 | 🌐 C++ | 📅 2026-10-30 (Neighborhood Graph and Tree for Indexing High-dimensional data).
 * [annoy-rb](https://github.com/yoshoku/annoy.rb) ⭐ 37 | 🐛 2 | 🌐 C++ | 📅 2026-09-18 -
   Ruby bindings for the [Annoy](https://github.com/spotify/annoy) ⭐ 14,331 | 🐛 100 | 🌐 C++ | 📅 2025-10-29 (Approximate Nearest Neighbors Oh Yeah).
 * [milvus](https://github.com/andreibondarev/milvus) ⭐ 34 | 🐛 1 | 🌐 Ruby | 📅 2026-10-22 —
   Ruby client for Milvus Vector DB.
 * [hnswlib.rb](https://github.com/yoshoku/hnswlib.rb) ⭐ 15 | 🐛 3 | 🌐 C++ | 📅 2026-11-03 -
-  Ruby bindings for the [Hnswlib](https://github.com/nmslib/hnswlib) ⭐ 5,365 | 🐛 312 | 🌐 C++ | 📅 2026-09-15 that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
+  Ruby bindings for the [Hnswlib](https://github.com/nmslib/hnswlib) ⭐ 5,366 | 🐛 312 | 🌐 C++ | 📅 2026-09-15 that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
 
 ## Applications of machine learning
 
@@ -377,10 +377,10 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Related Resources
 
 * <a name="xgboost"></a>
-  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,942 | 🐛 450 | 🌐 C++ | 📅 2026-11-03
+  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,943 | 🐛 448 | 🌐 C++ | 📅 2026-11-04
 * <a name="lightgbm"></a>
-  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,947 | 🐛 530 | 🌐 C++ | 📅 2026-11-02
-* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,533 | 🐛 34 | 📅 2026-02-08 -
+  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,950 | 🐛 531 | 🌐 C++ | 📅 2026-11-02
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,531 | 🐛 34 | 📅 2026-02-08 -
   Machine Learning with TensorFlow libraries.
 * [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) ⭐ 14,186 | 🐛 11 | 📅 2026-10-05 -
   Among other awesome items a short list of NLP related projects.
@@ -460,4 +460,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
