@@ -2023,7 +2023,7 @@
             "open_issues": 445,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28954,
+            "stars": 28957,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2048,10 +2048,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-02T19:27:12Z",
-            "open_issues": 534,
+            "open_issues": 536,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18953,
+            "stars": 18956,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2107,7 +2107,7 @@
             "open_issues": 11,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14184,
+            "stars": 14185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2156,7 +2156,7 @@
             "open_issues": 18,
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2226,
+            "stars": 2225,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:19:40.283Z",
+    "last_updated": "2026-11-09T01:40:05.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
@@ -2273,7 +2273,7 @@
       "open_issues": 7,
       "owner": "arbox",
       "repo": "machine-learning-with-ruby",
-      "stars": 2230,
+      "stars": 2229,
       "topics": [
         "awesome",
         "awesome-list",
