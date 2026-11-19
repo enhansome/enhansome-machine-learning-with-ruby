@@ -245,8 +245,8 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T01:25:30Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-19T00:38:50Z",
+                "open_issues": 28,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3654,
@@ -336,7 +336,7 @@
                 "open_issues": 88,
                 "owner": "patterns-ai-core",
                 "repo": "langchainrb",
-                "stars": 2008,
+                "stars": 2007,
                 "topics": [
                   "agents",
                   "ai-agents",
@@ -440,7 +440,7 @@
                 "open_issues": 28,
                 "owner": "jekyll",
                 "repo": "classifier-reborn",
-                "stars": 558,
+                "stars": 559,
                 "topics": [
                   "bayesian-classifier",
                   "ruby",
@@ -903,7 +903,7 @@
                 "open_issues": 10,
                 "owner": "ankane",
                 "repo": "torch.rb",
-                "stars": 842,
+                "stars": 843,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T15:02:18Z",
-            "open_issues": 450,
+            "last_commit": "2026-11-19T00:28:53Z",
+            "open_issues": 454,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 28986,
+            "stars": 28992,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2047,11 +2047,11 @@
             "id": 64991887,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-18T03:16:02Z",
+            "last_commit": "2026-11-18T15:10:58Z",
             "open_issues": 548,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18991,
+            "stars": 18992,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:39:27.969Z",
+    "last_updated": "2026-11-19T03:15:31.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
