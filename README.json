@@ -246,7 +246,7 @@
                 "language": "Ruby",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T01:39:35Z",
-                "open_issues": 31,
+                "open_issues": 33,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
                 "stars": 3653,
@@ -2020,10 +2020,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T22:12:08Z",
-            "open_issues": 452,
+            "open_issues": 456,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 29008,
+            "stars": 29011,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2051,7 +2051,7 @@
             "open_issues": 550,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 18995,
+            "stars": 18996,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17538,
+            "stars": 17539,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2107,7 +2107,7 @@
             "open_issues": 14,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14194,
+            "stars": 14193,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2132,7 +2132,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3128,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:08:16.026Z",
+    "last_updated": "2026-11-22T02:07:30.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
