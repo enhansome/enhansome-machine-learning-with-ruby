@@ -1,6 +1,6 @@
 <img title="Awesome Machine Learning with Ruby" alt="Awesome Machine Learning with Ruby" src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 541,812 | 🐛 103 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 542,417 | 🐛 103 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 723 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -89,14 +89,14 @@ programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
-* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,653 | 🐛 28 | 🌐 Ruby | 📅 2026-11-23 -
+* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,653 | 🐛 28 | 🌐 Ruby | 📅 2026-11-24 -
   Machine Learning API of the Amazon Web Services.
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) ⭐ 3,217 | 🐛 56 | 🌐 Ruby | 📅 2026-05-01 - OpenAI API wrapper
 * [shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,083 | 🐛 425 | 🌐 C++ | 📅 2023-12-19 - Polyfunctional and mature
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby) ⭐ 3,083 | 🐛 425 | 🌐 C++ | 📅 2023-12-19.
 * [LangChain.rb](https://github.com/andreibondarev/langchainrb) ⭐ 2,006 | 🐛 88 | 🌐 Ruby | 📅 2026-10-21 -
   Build ML/AI-supercharged applications with Ruby's LangChain.
-* [rumale](https://github.com/yoshoku/rumale) ⭐ 919 | 🐛 1 | 🌐 Ruby | 📅 2026-10-31 -
+* [rumale](https://github.com/yoshoku/rumale) ⭐ 920 | 🐛 1 | 🌐 Ruby | 📅 2026-10-31 -
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
   (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to [Scikit-Learn][scikit] in Python.
@@ -148,8 +148,8 @@ programming languages with appropriate bindings for Ruby.
 
 ### Deep learning
 
-* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 842 | 🐛 10 | 🌐 Ruby | 📅 2026-11-14 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 105,704 | 🐛 18,536 | 🌐 Python | 📅 2026-11-24
-  using [rice](https://github.com/jasonroelofs/rice) ⭐ 415 | 🐛 2 | 🌐 C++ | 📅 2026-05-05.
+* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 842 | 🐛 10 | 🌐 Ruby | 📅 2026-11-14 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 105,706 | 🐛 18,583 | 🌐 Python | 📅 2026-11-25
+  using [rice](https://github.com/jasonroelofs/rice) ⭐ 415 | 🐛 2 | 🌐 C++ | 📅 2026-11-24.
 * [tensorflow](https://github.com/somaticio/tensorflow.rb) ⭐ 827 | 🐛 15 | 🌐 Ruby | 📅 2022-01-10 - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 * [tensor\_stream](https://github.com/jedld/tensor_stream) ⭐ 502 | 🐛 2 | 🌐 Ruby | 📅 2020-12-26 -
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
@@ -228,8 +228,8 @@ programming languages with appropriate bindings for Ruby.
 
 ### Vector search
 
-* [flann](https://github.com/mariusmuja/flann) ⭐ 2,381 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 -
-  Ruby bindings for the [FLANN](https://github.com/flann-lib/flann) ⭐ 2,381 | 🐛 298 | 🌐 C++ | 📅 2024-07-29 (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
+* [flann](https://github.com/mariusmuja/flann) ⭐ 2,381 | 🐛 297 | 🌐 C++ | 📅 2024-07-29 -
+  Ruby bindings for the [FLANN](https://github.com/flann-lib/flann) ⭐ 2,381 | 🐛 297 | 🌐 C++ | 📅 2024-07-29 (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
 * [pinecone](https://github.com/ScotterC/pinecone) ⭐ 68 | 🐛 2 | 🌐 Ruby | 📅 2026-03-18 —
   Ruby client for Pinecone Vector DB.
 * [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) ⭐ 62 | 🐛 0 | 🌐 Ruby | 📅 2026-10-21 —
@@ -377,14 +377,14 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Related Resources
 
 * <a name="xgboost"></a>
-  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 29,012 | 🐛 459 | 🌐 C++ | 📅 2026-11-24
+  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 29,013 | 🐛 458 | 🌐 C++ | 📅 2026-11-24
 * <a name="lightgbm"></a>
-  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 19,008 | 🐛 553 | 🌐 C++ | 📅 2026-11-23
-* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,538 | 🐛 34 | 📅 2026-02-08 -
+  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 19,009 | 🐛 554 | 🌐 C++ | 📅 2026-11-23
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,535 | 🐛 34 | 📅 2026-02-08 -
   Machine Learning with TensorFlow libraries.
-* [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) ⭐ 14,192 | 🐛 14 | 📅 2026-11-17 -
+* [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) ⭐ 14,191 | 🐛 15 | 📅 2026-11-17 -
   Among other awesome items a short list of NLP related projects.
-* [Awesome OCR](https://github.com/kba/awesome-ocr) ⭐ 3,128 | 🐛 81 | 📅 2024-07-06 -
+* [Awesome OCR](https://github.com/kba/awesome-ocr) ⭐ 3,128 | 🐛 82 | 📅 2024-07-06 -
   Multitude of OCR (Optical Character Recognition) resources.
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) ⭐ 2,226 | 🐛 18 | 📅 2019-04-02 -
   General List of NLP related resources (mostly not for Ruby programmers).
@@ -460,4 +460,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
