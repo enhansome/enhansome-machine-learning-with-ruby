@@ -308,7 +308,7 @@
                 "open_issues": 425,
                 "owner": "shogun-toolbox",
                 "repo": "shogun",
-                "stars": 3083,
+                "stars": 3081,
                 "topics": [
                   "artificial-intelligence",
                   "c-plus-plus",
@@ -1232,7 +1232,7 @@
                 "open_issues": 10,
                 "owner": "igrigorik",
                 "repo": "decisiontree",
-                "stars": 1503,
+                "stars": 1502,
                 "topics": [
                   "decision-tree",
                   "machine-learning",
@@ -2020,10 +2020,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T19:05:38Z",
-            "open_issues": 457,
+            "open_issues": 459,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 29017,
+            "stars": 29018,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2051,7 +2051,7 @@
             "open_issues": 554,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 19013,
+            "stars": 19019,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2086,7 +2086,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17535,
+            "stars": 17534,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:41.089Z"
@@ -2107,7 +2107,7 @@
             "open_issues": 14,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14189,
+            "stars": 14190,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:05:45.799Z",
+    "last_updated": "2026-11-27T04:09:37.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",
