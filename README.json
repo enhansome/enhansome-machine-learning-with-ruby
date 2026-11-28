@@ -245,11 +245,11 @@
                 "id": 2050163,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T22:21:55Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-27T20:13:04Z",
+                "open_issues": 25,
                 "owner": "aws",
                 "repo": "aws-sdk-ruby",
-                "stars": 3653,
+                "stars": 3652,
                 "topics": [
                   "aws",
                   "aws-sdk",
@@ -308,7 +308,7 @@
                 "open_issues": 425,
                 "owner": "shogun-toolbox",
                 "repo": "shogun",
-                "stars": 3081,
+                "stars": 3082,
                 "topics": [
                   "artificial-intelligence",
                   "c-plus-plus",
@@ -465,7 +465,7 @@
                 "open_issues": 0,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-ruby",
-                "stars": 277,
+                "stars": 276,
                 "topics": [
                   "azure-resource-manager",
                   "azure-resources",
@@ -1232,7 +1232,7 @@
                 "open_issues": 10,
                 "owner": "igrigorik",
                 "repo": "decisiontree",
-                "stars": 1502,
+                "stars": 1503,
                 "topics": [
                   "decision-tree",
                   "machine-learning",
@@ -2019,11 +2019,11 @@
             "id": 16587283,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T19:05:38Z",
-            "open_issues": 459,
+            "last_commit": "2026-11-27T16:08:32Z",
+            "open_issues": 462,
             "owner": "dmlc",
             "repo": "xgboost",
-            "stars": 29018,
+            "stars": 29020,
             "topics": [
               "distributed-systems",
               "gbdt",
@@ -2051,7 +2051,7 @@
             "open_issues": 554,
             "owner": "lightgbm-org",
             "repo": "LightGBM",
-            "stars": 19019,
+            "stars": 19020,
             "topics": [
               "data-mining",
               "decision-trees",
@@ -2132,7 +2132,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 82,
+            "open_issues": 81,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3128,
@@ -2177,7 +2177,7 @@
             "open_issues": 0,
             "owner": "thbar",
             "repo": "kiba",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "data",
               "etl",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:09:37.346Z",
+    "last_updated": "2026-11-28T03:50:33.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list: Resources for machine learning in Ruby",

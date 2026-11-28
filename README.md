@@ -1,6 +1,6 @@
 <img title="Awesome Machine Learning with Ruby" alt="Awesome Machine Learning with Ruby" src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 543,527 | 🐛 103 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 544,006 | 🐛 103 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 723 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -89,11 +89,11 @@ programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
-* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,653 | 🐛 26 | 🌐 Ruby | 📅 2026-11-25 -
+* [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) ⭐ 3,652 | 🐛 25 | 🌐 Ruby | 📅 2026-11-27 -
   Machine Learning API of the Amazon Web Services.
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) ⭐ 3,216 | 🐛 56 | 🌐 Ruby | 📅 2026-05-01 - OpenAI API wrapper
-* [shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,081 | 🐛 425 | 🌐 C++ | 📅 2023-12-19 - Polyfunctional and mature
-  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby) ⭐ 3,081 | 🐛 425 | 🌐 C++ | 📅 2023-12-19.
+* [shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,082 | 🐛 425 | 🌐 C++ | 📅 2023-12-19 - Polyfunctional and mature
+  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby) ⭐ 3,082 | 🐛 425 | 🌐 C++ | 📅 2023-12-19.
 * [LangChain.rb](https://github.com/andreibondarev/langchainrb) ⭐ 2,006 | 🐛 88 | 🌐 Ruby | 📅 2026-10-21 -
   Build ML/AI-supercharged applications with Ruby's LangChain.
 * [rumale](https://github.com/yoshoku/rumale) ⭐ 920 | 🐛 1 | 🌐 Ruby | 📅 2026-10-31 -
@@ -148,7 +148,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Deep learning
 
-* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 842 | 🐛 10 | 🌐 Ruby | 📅 2026-11-14 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 105,794 | 🐛 18,654 | 🌐 Python | 📅 2026-11-27
+* [torch-rb](https://github.com/ankane/torch-rb) ⭐ 842 | 🐛 10 | 🌐 Ruby | 📅 2026-11-14 - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch) ⭐ 105,695 | 🐛 18,696 | 🌐 Python | 📅 2026-11-28
   using [rice](https://github.com/jasonroelofs/rice) ⭐ 415 | 🐛 2 | 🌐 C++ | 📅 2026-11-25.
 * [tensorflow](https://github.com/somaticio/tensorflow.rb) ⭐ 827 | 🐛 15 | 🌐 Ruby | 📅 2022-01-10 - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 * [tensor\_stream](https://github.com/jedld/tensor_stream) ⭐ 502 | 🐛 2 | 🌐 Ruby | 📅 2020-12-26 -
@@ -183,7 +183,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Decision trees
 
-* [decisiontree](https://github.com/igrigorik/decisiontree) ⭐ 1,502 | 🐛 10 | 🌐 Ruby | 📅 2018-10-31 -
+* [decisiontree](https://github.com/igrigorik/decisiontree) ⭐ 1,503 | 🐛 10 | 🌐 Ruby | 📅 2018-10-31 -
   Decision Tree ID3 Algorithm in pure Ruby. <sup>\[[dep: GraphViz](#graphviz) |
   [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 
@@ -239,7 +239,7 @@ programming languages with appropriate bindings for Ruby.
 * [ngt-ruby](https://github.com/ankane/ngt-ruby) ⭐ 53 | 🐛 0 | 🌐 Ruby | 📅 2026-04-02 -
   Ruby bindings for the [NGT](https://github.com/yahoojapan/NGT) ⭐ 1,376 | 🐛 28 | 🌐 C++ | 📅 2026-11-26 (Neighborhood Graph and Tree for Indexing High-dimensional data).
 * [annoy-rb](https://github.com/yoshoku/annoy.rb) ⭐ 37 | 🐛 2 | 🌐 C++ | 📅 2026-09-18 -
-  Ruby bindings for the [Annoy](https://github.com/spotify/annoy) ⭐ 14,343 | 🐛 101 | 🌐 C++ | 📅 2025-10-29 (Approximate Nearest Neighbors Oh Yeah).
+  Ruby bindings for the [Annoy](https://github.com/spotify/annoy) ⭐ 14,342 | 🐛 101 | 🌐 C++ | 📅 2025-10-29 (Approximate Nearest Neighbors Oh Yeah).
 * [milvus](https://github.com/andreibondarev/milvus) ⭐ 34 | 🐛 1 | 🌐 Ruby | 📅 2026-10-22 —
   Ruby client for Milvus Vector DB.
 * [hnswlib.rb](https://github.com/yoshoku/hnswlib.rb) ⭐ 15 | 🐛 3 | 🌐 C++ | 📅 2026-11-03 -
@@ -377,18 +377,18 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Related Resources
 
 * <a name="xgboost"></a>
-  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 29,018 | 🐛 459 | 🌐 C++ | 📅 2026-11-25
+  [XGBoost](https://github.com/dmlc/xgboost) ⭐ 29,020 | 🐛 462 | 🌐 C++ | 📅 2026-11-27
 * <a name="lightgbm"></a>
-  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 19,019 | 🐛 554 | 🌐 C++ | 📅 2026-11-25
+  [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 19,020 | 🐛 554 | 🌐 C++ | 📅 2026-11-25
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,534 | 🐛 34 | 📅 2026-02-08 -
   Machine Learning with TensorFlow libraries.
 * [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) ⭐ 14,190 | 🐛 14 | 📅 2026-11-17 -
   Among other awesome items a short list of NLP related projects.
-* [Awesome OCR](https://github.com/kba/awesome-ocr) ⭐ 3,128 | 🐛 82 | 📅 2024-07-06 -
+* [Awesome OCR](https://github.com/kba/awesome-ocr) ⭐ 3,128 | 🐛 81 | 📅 2024-07-06 -
   Multitude of OCR (Optical Character Recognition) resources.
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) ⭐ 2,225 | 🐛 18 | 📅 2019-04-02 -
   General List of NLP related resources (mostly not for Ruby programmers).
-* [Kiba](https://github.com/thbar/kiba) ⭐ 1,775 | 🐛 0 | 🌐 Ruby | 📅 2026-01-10 -
+* [Kiba](https://github.com/thbar/kiba) ⭐ 1,776 | 🐛 0 | 🌐 Ruby | 📅 2026-01-10 -
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 * [Ruby NLP](https://github.com/diasks2/ruby-nlp) ⭐ 1,284 | 🐛 2 | 📅 2023-03-05 -
   State-of-Art collection of Ruby libraries for NLP.
@@ -460,4 +460,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
